@@ -1,42 +1,61 @@
-Hi there, I'm Rajat! 👋
-I'm an Avionics and Embedded Engineer with a passion for the full lifecycle of product development—from designing the ground support hardware all the way to deploying flight-critical firmware for mission-critical systems.
+# Hi, I'm Rajat Rahul Metha 👋
 
-My core focus is on bridging the gap between hardware and software. I have hands-on experience developing for commercial space missions, including key contributions to the Dhruva Space LEAP-1 satellite. I specialize in creating reliable, memory-efficient code for resource-constrained environments and have a deep interest in custom bootloader design and robust OTA firmware updates.
+### Flight Software Engineer | Embedded Systems | Space Technology
 
-🔭 I’m currently an Avionics Engineer II at Dhruva Space.
-🌱 I’m skilled in Embedded C, FreeRTOS, and STM32 development.
-💬 Ask me about firmware development, hardware debugging, or system integration.
-📫 How to reach me: rajatsrmetha@gmail.com
+I build reliable, flight-critical embedded software for LEO missions. Over the past 3+ years, I have worked across the full software lifecycle—from peripheral drivers and subsystem architecture to hardware validation, system integration, and on-orbit operations.
 
-🛠️ My Tech Stack & Skills
-Here are some of the key technologies and tools I work with:
+My experience spans bare-metal C, RTOS-based systems, and reusable flight-software components for STM32 and TI safety microcontrollers. I enjoy working at the boundary between hardware and software, where careful design, debugging, and validation turn electronics into dependable spacecraft systems.
 
-Languages & OS - Embedded C, C, Python, FreeRTOS
+- 🔭 Currently an **Embedded Software Engineer at PierSight Space**
+- 🛰️ Contributed to flight-proven missions including **LEAP-TD, LEAP-1, and PA-1**
+- 🧩 Building reusable components with NASA's **F´ (F Prime)** flight software framework
+- 💬 Ask me about embedded firmware, hardware drivers, spacecraft avionics, or system integration
+- 📫 Reach me at **rajatsrmetha@gmail.com**
 
-Hardware & MCUs - STM32 Series, ESP32, STM8, ATmega, CC11XX
+## What I work with
 
-Software & EDA - STM32CubeIDE, Altium Designer, ESP-IDF, IAR Embedded Workbench, Git, VS Code
+| Area | Technologies |
+| --- | --- |
+| Languages & systems | Embedded C, C, Python, bare-metal systems, RTOS |
+| Flight software | F´ (F Prime), OpenC3 COSMOS, HYDRA |
+| Controllers | STM32, TMS570, CC1110, ESP32, ESP8266, STM8, ATmega, 8051 |
+| Interfaces & protocols | ADC, CAN, GPIO, I2C, JTAG, Modbus, SCPI, SPI, UART, watchdogs |
+| Development tools | CCS, STM32CubeIDE, STM32CubeMX, HALCoGen, ESP-IDF, IAR Embedded Workbench, Git, VS Code |
+| Quality & validation | Unit testing, static code analysis, code reviews, thermal cycling, hardware characterization |
+| Lab & debugging | Oscilloscope, logic analyzer, multimeter, power supply, DC load, soldering and rework |
 
-Protocols - CAN, I2C, JTAG, Modbus, SCPI, SPI, UART
+## Experience highlights
 
-Core Competencies - Hardware Debugging, Firmware Troubleshooting, System Integration
+### PierSight Space — Embedded Software Engineer
 
-Lab Equipment DSO, Logic Analyzer, DC Load, Soldering & Rework
+- Develop peripheral drivers and reusable F´ components for modular subsystem integration.
+- Build end-to-end test firmware for ADC, CAN, Flash, GPIO, I2C, SPI, UART, and watchdog peripherals.
+- Validate flight hardware through thermal cycling with DMA, interrupt-driven, and polling execution models.
+- Improve software reliability through unit testing, static analysis, and rigorous code review.
 
-🚀 Featured Projects
-These are the projects that I have pinned to my profile. They showcase my ability to build complete systems from concept to deployment.
+### Dhruva Space — Avionics Engineer
 
-Project Name                                       Description                                                   Technologies Used     
-Voice-Activated Notice               Board Engineered a voice-activated digital                           ATmega328p, Embedded C, PCB Design
-                                     notice board from concept to completion. 
-                                     This project was successfully commercialized 
-                                     and sold to local businesses for advertising purposes.
+- Delivered end-to-end bare-metal flight software for the EPS-PDU subsystem, from architecture through deployment.
+- Developed communication stacks and driver libraries for ADCs, star trackers, IMUs, and GPS sensors.
+- Supported subsystem integration, system-level testing, mission preparation, and flight operations.
+- Contributed to the LEAP-TD, LEAP-1, and PA-1 LEO satellite missions.
 
+## Selected projects
 
-Smart Agricultural IoT Stick         Developed a self-contained IoT device to monitor                    ESP8266, Embedded C, IoT
-                                     soil moisture and automatically control water levels, 
-                                     providing an efficient water management solution for
-                                     agriculture.
+### Voice-Activated Notice Board
 
+Designed and built a voice-activated digital notice board using an ATmega328P, Embedded C, and a custom PCB. The product was commercialized and sold to local businesses for advertising.
 
-📫 Let's Connect!
+### Smart Agricultural IoT Stick
+
+Developed a self-contained ESP8266-based device that monitors soil moisture and automatically controls water levels for more efficient agricultural water management.
+
+## Education
+
+- **B.Tech, Electronics and Telecommunication** — K. J. Somaiya Institute of Technology, 2023 · CGPA: 9.46/10
+- **Diploma, Electronics and Telecommunication** — Government Polytechnic Karad, 2020 · 89.41%
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajatsrmetha-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajatsrmetha/)
+[![Email](https://img.shields.io/badge/Email-rajatsrmetha%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rajatsrmetha@gmail.com)
